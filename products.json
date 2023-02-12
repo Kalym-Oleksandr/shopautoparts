@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "title": "Фільтр повітряний Donaldson DO 955677 ",
+        "image": "img/products/10732258.webp",
+        "description": "Фільтр повітряний",
+        "price": 49.99
+    },
+    {
+        "id": "2",
+        "title": "Фільтр масляний Mann Filter MF W 712/75",
+        "image": "img/products/49013828.webp",
+        "description": "Фільтр масляний",
+        "price": 19.99
+    },
+    {
+        "id": "3",
+        "title": "Фільтр паливний WIX WX 33358E",
+        "image": "img/products/10744757.webp",       
+        "description": "Фільтр паливний",
+        "price": 24.99
+    },
+    {
+        "id": "4",
+        "title": "Фільтр трансмісії Febi FB 44176",
+        "image": "img/products/285794627.webp",
+        "description": "Фільтр трансмісії",
+        "price": 34.99
+    }
+]
