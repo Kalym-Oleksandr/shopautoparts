@@ -27,11 +27,12 @@
         "description": "Фільтр трансмісії",
         "price": 34.99
     },
-{
+    {
         "id": "5",
-        "title": "Фільтр повітряний Donaldson DO 955677 ",
-        "image": "img/products/10732258.webp",
-        "description": "Фільтр повітряний",
-        "price": 49.99
-    },
+        "title": "Топливный насос низкого давления  DAF Euro 5 Bosch 3576671113",
+        "image": "img/products/3576671113PH01WHCO0000.webp",
+        "description": "Топливный насос низкого давления",
+        "price": 160.00
+
+    }
 ]
